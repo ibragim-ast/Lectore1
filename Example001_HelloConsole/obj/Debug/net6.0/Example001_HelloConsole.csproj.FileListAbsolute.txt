@@ -1,0 +1,15 @@
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/refint/Example001_HelloConsole.dll
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/ibragim.ast/Documents/Geek_Brains/Introduction to programming languages/Lecture/Lecture 1/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
